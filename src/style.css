@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bontella';
+    src: url('./BontellaScript.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+
+.hello {
+    color: red;
+    font-family: 'Bontella';
+    background: url('./airballoon.png');
+  }
